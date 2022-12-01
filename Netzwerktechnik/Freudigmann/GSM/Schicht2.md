@@ -2,13 +2,9 @@
 
 ## Schnittstellen
 
-- CM Connection Management
-    CC Call Control
-        Auf-/Abbau, Unterhaltung
-    SS Supplementary Service
-    SMS Short Message Service
-- MM Mobility Management
-    Registrierung, Authentisierung, Zuweisung TMSI
-- RR Radio Resource Management
-    Auf-/Abbau stabiler Verbindung zw. MS und MSC
-- PD Protocol Disriminator
+- LAPDm zwischen MS und BTS
+- Keine Flags, Begrenzung der physikalischen Schicht wird verwendet
+- Keine CRC => physikalische Schicht
+- SAPI
+    0 Signaling Service
+    3 SMS
