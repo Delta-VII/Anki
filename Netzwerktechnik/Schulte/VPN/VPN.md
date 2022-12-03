@@ -1,4 +1,4 @@
-# VPN
+## VPN
 
 Tunneling über ein öffentliches Netz mit Verschlüsselung und Authentifizierung.
 

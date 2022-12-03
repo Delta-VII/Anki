@@ -17,5 +17,3 @@ Das MSB Bit kommt am Schluss. Reihenfolge der Bitfolge beachten.
 Flag bei HDLC immer 0x7E
 
 ![image](../assets/hdlc_frame.png)
-
-

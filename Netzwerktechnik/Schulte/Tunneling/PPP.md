@@ -1,4 +1,4 @@
-# Point to Point Protocol
+## Point to Point Protocol
 
 RFC 1661
 
@@ -37,7 +37,7 @@ RFC 1661
 - Information Field: Code für Funktionen, ID Identificaion, Längenangabe des Rahmens, Daten
 - Padding field. Werden weniger Daten übertragen wird hier aufgegüllt
 
-![image](../assets/ppp_header.png) 
+![image](../assets/ppp_header.png)
 
 ## LCP Header
 
@@ -150,9 +150,3 @@ Payload = PPP Protocol und Nutzdaten
 ![image](../assets/PPPoE%20Discovery.png)
 
 ![image](../assets/pppoe_verbindungsaufbau.png)
-
-
-## PPPoE Session
-
-
-![image](../assets/PPPoE%20Session.png)
