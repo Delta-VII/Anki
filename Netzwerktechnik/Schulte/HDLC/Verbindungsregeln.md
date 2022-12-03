@@ -1,4 +1,4 @@
-# Verbindungsregeln
+## Verbindungsregeln
 
 1. Eine Station muss I Blöcke bis zur Bestätigung durch die Gegenseite aufbewahren.
 
