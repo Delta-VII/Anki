@@ -1,6 +1,6 @@
 # Frequency Hopping
 
-## Frequency Hopping
+## GSM Frequency Hopping
 
 - Ziel: Störung durch Umweglaufzeiten vermeiden
 - max. 217 Hops/s

@@ -6,6 +6,6 @@ Wird von global tätigen und großen Unternehmen verwendet um Standorte zu koppe
 
 Alternative zu dedizierter Standleitung
 
-## Vorteile
+## VPN Vorteile
 
 Geringe Kosten und einfache und schnelle Erweiterungsmöglichkeit.

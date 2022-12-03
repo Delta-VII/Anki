@@ -1,6 +1,6 @@
-# GPRS Eigenschaften
+# GPRS
 
-## Eigenschaften
+## GPRS Eigenschaften
 
 - IPv4-basiert, dynamische Adressvergabe
 - TFI: Temporary Flow Identity

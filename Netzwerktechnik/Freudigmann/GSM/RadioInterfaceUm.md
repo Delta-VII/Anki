@@ -1,6 +1,6 @@
 # Radio Interface Um
 
-## Radio Interface Um
+## (GSM) Radio Interface Um
 
 - Bursts mit 114 Bit Nutzlast
 - Sprachblock mit 260 Bit

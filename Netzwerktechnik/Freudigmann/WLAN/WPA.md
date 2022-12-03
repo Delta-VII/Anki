@@ -6,21 +6,21 @@ WiFi Protected Access
 
 Dynamischer Schlüssel
 
-## TKIP
+## WPA TKIP
 
 Temporal Key Integrity Protocol
 
 Neuer Schlüssel je Datenpaket
 
-## MIC
+## WPA MIC
 
 Message Integrity Check
 
-## Authentifizierung
+## WPA Authentifizierung
 
 - PSK Pre-Shared Key
 - EAP Extensible Authentication Protocol
 
-## Schwachstellen
+## WPA Schwachstellen
 
 Basis RC4, ARP-Spoofing, Brute Force

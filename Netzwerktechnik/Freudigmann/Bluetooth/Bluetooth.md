@@ -51,15 +51,15 @@ Forward Error Correction
 - Asymmetrisch: 723,2/57,6 kbit/s
 - Paketvermittelt
 
-## Frequenzwahl wärend Übertragung
+## Bluetooth Frequenzwahl wärend Übertragung
 
 ![image](../assets/Frequenzwahl.png)
 
-## SCO Aufbau
+## Bluetooth SCO Aufbau
 
 ![image](../assets/sco.png)
 
-## ACL Eigenschaften
+## Bluetooth ACL Eigenschaften
 
 - Nutzlasttypen
 - DM Kopf, Nutzlast, FEC, CRC

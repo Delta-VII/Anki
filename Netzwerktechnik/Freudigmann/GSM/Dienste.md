@@ -1,6 +1,6 @@
 # Dienste
 
-## Sprache
+## GSM Sprache
 
 - ADPCM (Adaptive Difference PCM) 13 kbit/s
 - Mode 1 kontinuierlich
@@ -8,8 +8,7 @@
     VAD Voice Activision Detection
     Comfort Noise (alle 480 ms Hintergrundgeräusch)
 
-
-## Daten
+## GSM Daten
 
 - Transparent Hohe Geschwindigkeit, fehleranfällig, verzögerungsfrei
 - Nicht Transparent Nicht-konstanter Durchsatz, Übertragungssicherheit
