@@ -66,19 +66,19 @@ Telefony Control Protocol
 - Verbindungssteuerung (Setup, Release)
 - Gruppenverwaltung
 
-## OBEX
+## Bluetooth OBEX
 
  Object Exchange
 
 - Objektaustausch, IrDA-Ersatz
 
-## WAP
+## Bluetooth WAP
 
 Wireless Access Protocol
 
 - Interaktion mit Anwendungen auf Mobiltelefonen
 
-## Profile
+## Bluetooth Profile
 
 Standardlösungen für Szenarien
 

@@ -1,34 +1,34 @@
 # Protokolle Mobil-Seite
 
-## MAC
+## WLAN MAC
 
 Zugriffsmechanismus, Fragmentierung, Verschlüsselung
 
-## MAC Managment
+## WLAN MAC Managment
 
 Synchronisierung, Roaming, Management Information Base (MIB), Power
 
-## PLCP
+## WLAN PLCP
 
 Physical Layer Convergence Protocol
 
 - Clear Channel Assessment Signal (Carrier Sense)
 
-## PMD
+## WLAN PMD
 
 Physical Medium Dependant
 
 - Modulation, Codierung
 
-## PHY Management
+## WLAN PHY Management
 
 Kanalwahl, MIB
 
-## Station Management
+## WLAN Station Management
 
 Koordination der Management-Funktion
 
-## Protokollstapel Mobil-Seite
+## WLAN Protokollstapel Mobil-Seite
 
 ![image](../assets/WlanProtokolleMobilSeite.png)
 

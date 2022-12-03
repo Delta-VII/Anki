@@ -1,6 +1,6 @@
 # Nachrichtenaufbau
 
-## Nachrichtenaufbau
+## GSM Nachrichtenaufbau
 
 - max. 249 Oktetts
 - Transactions Identifier (TI), Unterscheidung paralleler Instanzen

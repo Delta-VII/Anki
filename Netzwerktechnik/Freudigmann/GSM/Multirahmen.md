@@ -1,6 +1,6 @@
 # Multirahmen
 
-## Multirahmen
+## GSM Multirahmen
 
 - 8 Slots => TDMA-Rahmen
 - 26 TDMA-Rahmen => Nutzdaten-Multirahmen

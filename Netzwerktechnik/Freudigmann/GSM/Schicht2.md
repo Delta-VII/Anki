@@ -1,6 +1,6 @@
 # Schnittstellen
 
-## Schnittstellen
+## GSM Schnittstellen
 
 - LAPDm zwischen MS und BTS
 - Keine Flags, Begrenzung der physikalischen Schicht wird verwendet

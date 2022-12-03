@@ -1,6 +1,6 @@
 # Timing Advance: Zeitsynchronisation
 
-## Timing Advance: Zeitsynchronisation
+## GSM Timing Advance: Zeitsynchronisation
 
 - Alle MS müssen im gleichen Schema der TDMA-Slots senden
 - Unterschiedliche Entfernungen

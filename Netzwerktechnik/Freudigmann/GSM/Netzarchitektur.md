@@ -44,6 +44,6 @@ Home Location Register
 
 Visitor Location Register
 
-## Architektur
+## GSM Architektur
 
 ![anki](../assets/Screenshot%202022-12-01%20203723.png)

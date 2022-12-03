@@ -54,27 +54,27 @@ Distributed Foundation Wireless Media Access Control
 
 ![image](../assets/PrioWlan.png)
 
-## Wettbewerb um Medium
+## WLAN Wettbewerb um Medium
 
 ![image](../assets/WettbewerbWlan.png)
 
-## CSMA/CA
+## WLAN CSMA/CA
 
 - Daten können nach Abwarten von DIFS gesendet werden
 - Empfänger antworten sofort (nach SIFS), falls das Paket korrekt empfangen wurde (CRC)
 - Im Fehlerfall wird das Paket automatisch wiederholt
 
-## CSMA/CA Schaubild
+## WLAN CSMA/CA Schaubild
 
 ![image](../assets/CSMACA.png)
 
-## RTS/CTS
+## WLAN RTS/CTS
 
 - RTS mit Belegungsdauer als Parameter kann nach Abwarten von DIFS gesendet werden
 - Bestätigung durch CTS nach SIFS durch Empfänger
 - Sofortiges Senden der Daten möglich, ACK wie gehabt
 - Andere Stationen speichern die Belegungsdauer, die im RTS und CTS ausgesendet wurden
 
-## RTS/CTS Schema
+## WLAN RTS/CTS Schema
 
 ![image](../assets/RtsCtsSchema.png)

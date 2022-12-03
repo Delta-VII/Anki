@@ -1,6 +1,6 @@
 # Mobility Management
 
-## Mobility Management
+## GSM Mobility Management
 
 - TMSI: Temporary Mobile Subscriber Identity
 - Lokalisierung der MS

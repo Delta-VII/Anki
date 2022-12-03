@@ -1,6 +1,6 @@
 # TDMA-Rahmen
 
-## TDMA-Rahmen
+## GSM TDMA-Rahmen
 
 - 8 Slots (Burst, 156,25 Bit)
 - Typen
@@ -14,7 +14,7 @@
 - Training: Entzerrung von Umlaufwegzeiten, 16μs
 - Guard Time: Schutz bei Ein-/Ausschalten des Senders
 
-## Aufbau TDMA-Rahmen
+## GSM Aufbau TDMA-Rahmen
 
 - 3 Tail
 - 57 Daten

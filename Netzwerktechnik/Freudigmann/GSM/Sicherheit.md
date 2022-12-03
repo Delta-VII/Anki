@@ -1,36 +1,36 @@
 # Sicherheit
 
-## Zugangskontrolle / Authentifikation
+## GSM Zugangskontrolle / Authentifikation
 
 - Teilnehmer  SIM PIN
 - SIM  Netzwerk Challenge-Response-Verfahren
 
-## Vertraulichkeit
+## GSM Vertraulichkeit
 
 Verschlüsselung aller Daten (Sprache, Signalisierung)
 
-## Anonymität
+## GSM Anonymität
 
 - Temporäre Kennung (TMSI)
 - Neu bei Location Update (LUP)
 - Verschlüsselt übertragen
 
-## A3
+## GSM A3
 
  zur Authentisierung („geheim“, Schnittstelle offengelegt)
 
-## A5
+## GSM A5
 
 zur Verschlüsselung (standardisiert)
 
-## A8
+## GSM A8
 
  zur Schlüsselberechnung („geheim“, Schnittstelle offengelegt)
 
-## Ablauf Authentifikation
+## GSM Ablauf Authentifikation
 
 ![image](../assets/AblaufAuth.png)
 
-## Ablauf Verschlüsselung
+## GSM Ablauf Verschlüsselung
 
 ![image](../assets/AblaufVerschl%C3%BCsselung.png)

@@ -1,6 +1,6 @@
 # Datendienste
 
-## Datendienste
+## GSM Datendienste
 
 - Leitungsvermittelt
     Duplex-asynchron: 300 - 9600 kbit/s

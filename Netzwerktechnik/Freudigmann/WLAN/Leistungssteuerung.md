@@ -1,30 +1,30 @@
 # Leistungssteuerung
 
-## Idee
+## WLAN Leistungssteuerung Idee
 
 Ausschalten der Sende/Empfangseinheit, wenn unnötig
 
-## Zustände
+## WLAN Leistungssteuerung Zustände
 
 Schlafend, Wach
 
-## TSF
+## WLAN Leistungssteuerung TSF
 
 Timing Synchronisation Function
 
 - Sicherstellung, dass alle Stationen gleichzeitig aufwachen
 
-## Infrastruktur (TIM)
+## WLAN Leistungssteuerung Infrastruktur (TIM)
 
 - Traffic Indication Map
     Liste von Unicast-Empfänger, von AP ausgesendet
 
-## Infrastruktur (DTIM)
+## WLAN Leistungssteuerung Infrastruktur (DTIM)
 
 - Delivery Traffic Indication Map
     Liste von Brodcast/Multicast-Empfänger, von AP ausgesendet
 
-## Ad-Hoc
+## WLAN Leistungssteuerung Ad-Hoc
 
 - Ad-Hoc Traffic Indication Map (ATIM)
     Komplexer, da kein zentrale AP

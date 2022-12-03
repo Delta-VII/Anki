@@ -1,6 +1,6 @@
 # Schicht 3
 
-## Schicht 3
+## GSM Schicht 3
 
 - CM Connection Management
     CC Call Control

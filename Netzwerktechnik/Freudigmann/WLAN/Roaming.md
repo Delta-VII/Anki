@@ -4,19 +4,19 @@
 
 Bei keiner/schlechter Verbindung
 
-## Scanning
+## Wlan Roaming Scanning
 
 Suche nach anderen APs (Beacons)
 
-## Reassociation Request
+## Wlan Roaming Reassociation Request
 
 Anfrage an APs
 
-## Reassociation Response
+## Wlan RoamingWlan Roaming Reassociation Response
 
 Bei Erfolg => Teilnehmen, sonst weitersuchen
 
-## AP akzeptiert Reassociation Request
+## Wlan Roaming AP akzeptiert Reassociation Request
 
 - Anzeigen der neuen Station an das Distribution System
 - Distribution System aktualisiert Datenbestand

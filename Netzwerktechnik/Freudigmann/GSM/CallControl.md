@@ -1,6 +1,6 @@
-# Call Control
+# GSM Call Control
 
-## Call Control
+## GSM Call Control
 
 - Normale Rufe, Auf-/Abbau, Erhaltung
 - Notrufe

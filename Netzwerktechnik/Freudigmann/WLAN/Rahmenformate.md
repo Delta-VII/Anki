@@ -1,21 +1,21 @@
-# Rahmenformat
+# WLAN Rahmenformat
 
-## Typen
+## WLAN Typen
 
 Steuerrahmen, Management-Rahmen, Datenrahmen
 
-## Sequenznummern
+## WLAN Sequenznummern
 
 Wichtig für duplizierte Pakete aufgrund verlorener ACK
 
-## Adresse
+## WLAN Adresse
 
 Empfänger, Transmitter (physikalisch), BSS Identifier, Sender (logisch)
 
-## Sonstiges
+## WLAN Sonstiges
 
 Sendedauer, Prüfsumme, Rahmensteuerung, Daten
 
-## Spezielle Rahmen
+## WLAN Spezielle Rahmen
 
 ACK, RTS, CTS
